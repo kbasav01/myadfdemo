@@ -1,0 +1,9 @@
+{
+	"name": "kb-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f76d58a9-2ed3-442d-b5c6-99818c8562da",
+		"tenantId": "67998b26-8452-482f-af9f-f39903083364"
+	}
+}
